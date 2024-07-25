@@ -69,3 +69,4 @@ for(key in book){
 // Task 9: Use the Object.keys and Object.values method to log all the keys and values of book 
 console.log(Object.keys(book));
 console.log(Object.values(book));
+
