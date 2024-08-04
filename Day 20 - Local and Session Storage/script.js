@@ -96,4 +96,4 @@ sessionStorage.clear();
 // Activity 5: Comparison LocalStorage and SessionSorage
 // The main difference between local storage and session 
 // storage is that local storage data persists across browsing sessions,
-//  while session storage data is only available for the current session:
+//  while session storage data is only available for the current session.
